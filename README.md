@@ -5,10 +5,10 @@ Fully Connected Deep Network for MNIST dataset
 
 Prerequisites
 ---
-* Python 3.6
-* Python's `pip`
+* Python 3.6,
+* Python's `pip`,
 * Jupyter Notebook
 
-Remarks
+Results
 ---
-* _TBA_
+* My solution was ranked as 3rd. The official score for _Accuracy @ 10%_ (LIFT-10?) metric on test set was approx _41.3%_ +- _0.1%_.
