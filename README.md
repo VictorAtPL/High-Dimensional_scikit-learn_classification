@@ -1,4 +1,4 @@
-Fully Connected Deep Network for MNIST dataset
+High Dimensional Dataset classification with Scikit-Learn
 ==
 * project implemented as part of the *Advanced Methods in Machine Learning* course attended on MSc degree of *Data Science* at the *Faculty of Mathematics and Information Sciences* in *Warsaw University of Technology*,
 * written mainly using `scikit-learn` library.
